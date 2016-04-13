@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'In elke fase van de onderneming komen er weer specifiek vraagstukken naar voren. Een greep uit de diverse vraagstukken is hieronder weergegeven:'
-datePublished: '2016-04-13T09:41:39.429Z'
-dateModified: '2016-04-13T09:41:29.074Z'
+datePublished: '2016-04-13T10:11:26.191Z'
+dateModified: '2016-04-13T10:11:06.319Z'
 title: ''
 author: []
 authors: []
@@ -23,6 +23,8 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65f469ce-1363-474d-be5f-613327cc8f2b.jpg)
+
+## 
 
 ## [Als ondernemer komt u voor meerdere vraagstukken te staan, vanaf het begin van uw onderneming tot aan het eind. Op basis van een brede ervaring kan ik u bijstaan bij deze vraagstukken.][0]
 
