@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'In elke fase van de onderneming komen er weer specifiek vraagstukken naar voren. Een greep uit de diverse vraagstukken is hieronder weergegeven:'
-datePublished: '2016-04-13T10:19:52.515Z'
-dateModified: '2016-04-13T10:19:51.462Z'
+datePublished: '2016-04-13T10:21:23.778Z'
+dateModified: '2016-04-13T10:21:22.021Z'
 title: 'Financieel Management & Advies'
 author: []
 sourcePath: _posts/2016-04-13-in-elke-fase-van-de-onderneming-komen-er-weer-specifiek-vraa.md
