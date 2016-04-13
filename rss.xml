@@ -4,7 +4,7 @@
         <description><![CDATA[Gerbert Hupkens. Financieel Advies & Account Management]]></description>
         <link>https://thegrid.ai/gh-advies/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 10:16:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2016 10:17:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gh-advies/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/gh-advies/gerbert-hupkens-is-met-zijn-20-jaar-ervaring-als-accountant/index.html</link>
             <guid isPermaLink="false">1287034f-663f-484c-a634-a8e59f6c9014</guid>
             <pubDate>Wed, 13 Apr 2016 10:09:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Financieel Management & Advies]]></title>
+            <description><![CDATA[<article><h1>Financieel Management & Advies</h1><p>In elke fase van de onderneming komen er weer specifiek vraagstukken naar voren. Een greep uit de diverse vraagstukken is hieronder weergegeven:</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65f469ce-1363-474d-be5f-613327cc8f2b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/gh-advies/in-elke-fase-van-de-onderneming-komen-er-weer-specifiek-vraa/index.html</link>
+            <guid isPermaLink="false">343f4c2b-719f-4920-91f2-749d8e7d7165</guid>
+            <pubDate>Wed, 13 Apr 2016 10:17:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Contactgegevens]]></title>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/gh-advies/754503ec-099a-4bbe-ab28-43a5739387d1/index.html</link>
             <guid isPermaLink="false">754503ec-099a-4bbe-ab28-43a5739387d1</guid>
             <pubDate>Wed, 13 Apr 2016 10:12:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><h1></h1><p>In elke fase van de onderneming komen er weer specifiek vraagstukken naar voren. Een greep uit de diverse vraagstukken is hieronder weergegeven:</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65f469ce-1363-474d-be5f-613327cc8f2b.jpg"></article>]]></description>
-            <link>https://thegrid.ai/gh-advies/in-elke-fase-van-de-onderneming-komen-er-weer-specifiek-vraa/index.html</link>
-            <guid isPermaLink="false">343f4c2b-719f-4920-91f2-749d8e7d7165</guid>
-            <pubDate>Wed, 13 Apr 2016 10:11:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
