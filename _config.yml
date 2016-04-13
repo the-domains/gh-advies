@@ -1,0 +1,28 @@
+name: GH Advies
+favicon: null
+layout_spectrum: 0.7261250296141952
+typography_spectrum: 0.985894906334579
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7174962947610766
+  lightness: 0.4991120758932084
+  saturation: 0.96555489115417
+  rhythmicContrast: 0.9254534570500255
+purpose: []
