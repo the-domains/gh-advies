@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'In elke fase van de onderneming komen er weer specifiek vraagstukken naar voren. Een greep uit de diverse vraagstukken is hieronder weergegeven:'
-datePublished: '2016-04-13T09:39:49.427Z'
-dateModified: '2016-04-13T09:39:47.188Z'
+datePublished: '2016-04-13T09:41:39.429Z'
+dateModified: '2016-04-13T09:41:29.074Z'
 title: ''
 author: []
 authors: []
@@ -45,5 +45,6 @@ Bij de advisering zal uiteraard het belang van de ondernemer/onderneming voorop 
 Uiteraard kunt u ons ook vragen om eens te klankborden, een scan van de organisatie te maken of om structureel toezicht te houden op uw organisatie of belangen, bijvoorbeeld voor een toezichthoudende functie.
 
 Daarnaast hebben wij een strategisch samenwerkingsverband met een gerenommeerd accountantskantoor. Op een efficiënte en effectieve wijze kunnen wij helpen bij het verkrijgen van de juiste verklaring.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb354f3a-8d93-4a55-a24b-7c49b881f6ac.jpg)
 
 [0]: http://gh-advies.nl/ondernemersadvies.html
