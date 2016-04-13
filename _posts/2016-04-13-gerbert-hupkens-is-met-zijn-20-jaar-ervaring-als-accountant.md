@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: "Gerbert Hupkens is met zijn 20 jaar ervaring als accountant en financieel manager een betrouwbare partner voor alle bedrijfsmatige financiële vraagstukken. Van consultancy tot accountancy, jaarverslagen, aangiftes en financieel management, deze gecertificeerde accountant is .\_"
-datePublished: '2016-04-13T09:17:32.363Z'
-dateModified: '2016-04-13T09:17:14.229Z'
+description: "Gerbert Hupkens is met zijn 20 jaar ervaring als accountant en financieel manager een betrouwbare partner voor alle bedrijfsmatige financiële vraagstukken. Van consultancy tot accountancy, jaarverslagen, aangiftes en financieel management, deze gecertificeerde accountant cruncht graag je numbers tot een heldere output.\_"
+datePublished: '2016-04-13T10:09:53.339Z'
+dateModified: '2016-04-13T09:36:53.710Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-13-gerbert-hupkens-is-met-zijn-20-jaar-ervaring-als-accountant.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-13-gerbert-hupkens-is-met-zijn-20-jaar-ervaring-als-accountant.md
-published: true
 url: gerbert-hupkens-is-met-zijn-20-jaar-ervaring-als-accountant/index.html
 _type: Article
 
