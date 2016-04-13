@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'In elke fase van de onderneming komen er weer specifiek vraagstukken naar voren. Een greep uit de diverse vraagstukken is hieronder weergegeven:'
-datePublished: '2016-04-13T10:21:23.778Z'
-dateModified: '2016-04-13T10:21:22.021Z'
+datePublished: '2016-04-13T10:25:59.205Z'
+dateModified: '2016-04-13T10:25:55.453Z'
 title: 'Financieel Management & Advies'
 author: []
 sourcePath: _posts/2016-04-13-in-elke-fase-van-de-onderneming-komen-er-weer-specifiek-vraa.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65f469ce-1363-474d-be5f-613327cc8f2b.jpg)
 
-## [Als ondernemer komt u voor meerdere vraagstukken te staan, vanaf het begin van uw onderneming tot aan het eind. Op basis van een brede ervaring kan ik u bijstaan bij deze vraagstukken.][0]
+## Als ondernemer komt u voor meerdere vraagstukken te staan, vanaf het begin van uw onderneming tot aan het eind. Op basis van een brede ervaring kan ik u bijstaan bij deze vraagstukken.
 
 In elke fase van de onderneming komen er weer specifiek vraagstukken naar voren. Een greep uit de diverse vraagstukken is hieronder weergegeven:
 
@@ -46,5 +46,3 @@ Uiteraard kunt u ons ook vragen om eens te klankborden, een scan van de organisa
 
 Daarnaast hebben wij een strategisch samenwerkingsverband met een gerenommeerd accountantskantoor. Op een efficiënte en effectieve wijze kunnen wij helpen bij het verkrijgen van de juiste verklaring.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb354f3a-8d93-4a55-a24b-7c49b881f6ac.jpg)
-
-[0]: http://gh-advies.nl/ondernemersadvies.html
