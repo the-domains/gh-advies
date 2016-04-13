@@ -1,14 +1,14 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'In elke fase van de onderneming komen er weer specifiek vraagstukken naar voren. Een greep uit de diverse vraagstukken is hieronder weergegeven:'
-datePublished: '2016-04-13T10:11:26.191Z'
-dateModified: '2016-04-13T10:11:06.319Z'
-title: ''
+datePublished: '2016-04-13T10:17:51.469Z'
+dateModified: '2016-04-13T10:11:33.178Z'
+title: 'Financieel Management & Advies'
 author: []
 authors: []
 publisher:
@@ -24,7 +24,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65f469ce-1363-474d-be5f-613327cc8f2b.jpg)
 
-## 
+## Financieel Management & Advies
 
 ## [Als ondernemer komt u voor meerdere vraagstukken te staan, vanaf het begin van uw onderneming tot aan het eind. Op basis van een brede ervaring kan ik u bijstaan bij deze vraagstukken.][0]
 
